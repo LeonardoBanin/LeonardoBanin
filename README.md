@@ -11,10 +11,10 @@ Desenvolvedor [Front-end | Back-end | Full-stack | Front-end Mobile ] e entusias
 
 💼 Experiência: [Grande experiência em Web Sites Apps Mobile e Designers ]
 
-💻 Tecnologias: [HTML , CSS , JavaScript , ReactNative , ReactExpo]
+💻 Tecnologias: [HTML , CSS , JavaScript , ReactNative , ReactExpo, Php , MySQL]
 
 🚀 Projetos: [https://github.com/LeonardoBanin/SkrrtStreet-Sprint1]
 
-📫 Como me encontrar: [olerianoleonardo@gmail.com, LinkedIn : Leonardo Banin, Telefone: 11 954995279]
+📫 Como me encontrar: [olerianoleonardo@gmail.com, LinkedIn : [Leonardo Banin] (https://www.linkedin.com/in/leonardo-banin-600102291/), Telefone: 11 954995279]
 
 ⚡ Curiosidade: [Estou sempre em busca de novos desafios e aprendizado constante. Acredito que o esforço e a determinação são as chaves para o crescimento pessoal e profissional! 🚀]
