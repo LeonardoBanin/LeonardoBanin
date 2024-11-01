@@ -37,6 +37,16 @@
 
 ###
 
+###
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/leonardobanin?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+
+</div>
+
+###
+
 <h2 align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Main+Skills%3A" alt="Typing SVG" /></a></h2>
 
@@ -87,6 +97,7 @@
 
 <h2 align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Social+media" alt="Typing SVG" /></a></h2>
+###
 
 ###
 
@@ -136,14 +147,19 @@
   </a>
 </div>
 
+###
 
-# 
+# #
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLeonardoBanin&s=40&c=000ba8&bg=00000000&no=2&ff=digi&tb=Visitors&ta=" /></p> 
+<br>
+</div>
+# #
 
+# #  
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/9e30749f-f064-4e32-a009-ab10a8db1215"/>
 <br>
 <br>
-
-# 
+# # 
 
 
 
