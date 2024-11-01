@@ -23,7 +23,7 @@ My name is Leonardo Banin and I'm a Technical from Systems Development.
 
 ###
 
-<h2 align="left">Technologies used in everyday life</h2>
+<h2 align="left">Main skills:</h2>
 
 ###
 
