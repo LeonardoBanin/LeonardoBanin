@@ -141,8 +141,8 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45" alt="twitter logo" />
   </a>
   
-  <a href="discord://users/524737454129938443">
-    <img src="https://discord.gg/AcTJdyUC&logoColor=white" height="45" alt="discord logo" />
+  <a href="https://discord.gg/AcTJdyUC">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="45" alt="discord logo" />
   </a>
   
   <a href="mailto:olerianoleonardo@gmail.com">
