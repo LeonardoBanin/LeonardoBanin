@@ -5,7 +5,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=120&duration=3000&pause=800&color=0517A6&width=450&height=60&lines=Welcome;Hello%2C+my+name+is+Leonardo;I'm+17+years+old;I+am+from+Brazil+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=3000&pause=800&color=0517A6&width=450&height=60&lines=Welcome;Hello%2C+my+name+is+Leonardo;I'm+17+years+old;I+am+from+Brazil+;Systems+Development+Technician)](https://git.io/typing-svg)
 ###
 
 <h2 align="left">About me</h2>
@@ -125,6 +125,15 @@
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" height="35" alt="pinterest logo" />
   </a>
 </div>
+
+
+# 
+
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/9e30749f-f064-4e32-a009-ab10a8db1215"/>
+<br>
+<br>
+
+# 
 
 
 
