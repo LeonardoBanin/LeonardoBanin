@@ -100,7 +100,6 @@ My name is Leonardo Banin and I'm a Technical from Systems Development.
   </a>
   
   <a href="discord://users/524737454129938443">
-    Adicione-me no Discord
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white" height="35" alt="discord logo" />
   </a>
   
