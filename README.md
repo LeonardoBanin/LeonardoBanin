@@ -30,12 +30,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardobanin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardobanin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBanin&show_icons=true&count_private=true&hide_border=true&title_color=0517A6&w&icon_color=0517A6&w&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Banin github stats" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBanin&layout=compact&hide_border=true&title_color=0517A6&w&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-###
 
 ###
 
@@ -90,14 +88,26 @@
   <img width="12" />
 </div>
 
+<br>
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Tools" alt="Typing SVG" /></a>
+<br>
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ###
 </div>
+
 
 ###
 
 <h2 align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Social+media" alt="Typing SVG" /></a></h2>
-###
+
 
 ###
 
@@ -150,16 +160,26 @@
 ###
 
 # #
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLeonardoBanin&s=40&c=000ba8&bg=00000000&no=2&ff=digi&tb=Visitors&ta=" /></p> 
+<div >
+  
+<br>
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Visitors+Count" alt="Typing SVG" /></a></h2>
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLeonardoBanin&s=40&c=000ba8&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
 <br>
 </div>
+
 # #
 
 # #  
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/9e30749f-f064-4e32-a009-ab10a8db1215"/>
 <br>
 <br>
-# # 
+
+
+
 
 
 
