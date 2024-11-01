@@ -80,7 +80,7 @@ My name is Leonardo Banin and I'm a Technical from Systems Development.
 
 <div align="center">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoColor=white&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&style=for-the-badge" height="35" alt="tik tok logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=for-the-badge" height="35" alt="twiter logo"  />
