@@ -1,9 +1,11 @@
 
 
-# My Profile
+# 
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/c37d26df-500a-4495-9b28-c082d68bd0b8"/>
+<br>
+<br>
 
-My name is Leonardo Banin and I'm a Technical from Systems Development.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=120&duration=3000&pause=800&color=0517A6&width=450&height=60&lines=Welcome;Hello%2C+my+name+is+Leonardo;I'm+17+years+old;I+am+from+Brazil+)](https://git.io/typing-svg)
 ###
 
 <h2 align="left">About me</h2>
