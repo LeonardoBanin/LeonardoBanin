@@ -23,7 +23,7 @@ My name is Leonardo Banin and I'm a Technical from Systems Development.
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://giphy.com/embed/NQz4V9m3gXsx3QpDWM" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qdberenice-codigos-qdb-luz-azul-NQz4V9m3gXsx3QpDWM">via GIPHY)"  />
+<img align="right" height="150" src="[https://giphy.com/embed/NQz4V9m3gXsx3QpDWM" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qdberenice-codigos-qdb-luz-azul-NQz4V9m3gXsx3QpDWM](https://giphy.com/embed/NQz4V9m3gXsx3QpDWM" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen> 
 
 ###
 
