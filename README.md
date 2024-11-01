@@ -1,7 +1,7 @@
 
 # Meu Perfil
 
-p align="left">My name is Leonardo Banin and I'm a Technical from Systems Development.</p>
+My name is Leonardo Banin and I'm a Technical from Systems Development.
 
 ###
 
