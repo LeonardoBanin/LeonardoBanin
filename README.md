@@ -5,12 +5,18 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/c37d26df-500a-4495-9b28-c082d68bd0b8"/>
 <br>
 <br>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0517A6&width=435&lines=Welcome;Hello%2C+my+name+is+Leonardo;I'm+17+years+old;I+am+from+Brazil+;Systems+Development+Technician)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Welcome;Hello%2C+my+name+is+Leonardo;I'm+17+years+old;I+am+from+Brazil+;Systems+Development+Technician" alt="Typing SVG" /></a>
+</div>
+
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=About+me" alt="Typing SVG" /></a>
+</h2>
 
 ###
 
@@ -31,7 +37,8 @@
 
 ###
 
-<h2 align="left">Main skills:</h2>
+<h2 align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Main+Skills%3A" alt="Typing SVG" /></a></h2>
 
 ###
 
@@ -78,7 +85,8 @@
 
 ###
 
-<h2 align="left">Social media</h2>
+<h2 align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Social+media" alt="Typing SVG" /></a></h2>
 
 ###
 
