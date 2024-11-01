@@ -142,7 +142,7 @@
   </a>
   
   <a href="discord://users/524737454129938443">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white" height="45" alt="discord logo" />
+    <img src="https://discord.gg/AcTJdyUC&logoColor=white" height="45" alt="discord logo" />
   </a>
   
   <a href="mailto:olerianoleonardo@gmail.com">
