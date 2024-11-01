@@ -21,4 +21,6 @@ Desenvolvedor [Front-end | Back-end | Full-stack | Front-end Mobile ] e entusias
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/leonardo-banin-600102291/)
 
+[![Linkedin](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white/)](https://www.behance.net/leonardobanin1/)
+
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobanin&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobanin&hide_progress=true)
