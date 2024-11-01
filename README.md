@@ -80,16 +80,16 @@ My name is Leonardo Banin and I'm a Technical from Systems Development.
 
 <div align="center">
 <a href="https://youtube.com/@leonardobaninoleriano?si=AnbDcV_FVH-KgG2W"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoColor=white&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&style=for-the-badge" height="35" alt="tik tok logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoColor=white&style=for-the-badge" height="35" alt="twiter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&style=for-the-badge" height="35" alt="behance"  />
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=whitee&style=for-the-badge" height="35" alt="pintrest"  />
+<a href="https://www.twitch.tv/leonardobanin_">Twitch</a><br><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&style=for-the-badge" height="35" alt="twitch logo"  />
+<a href="https://www.tiktok.com/@leonardobanin_?_t=8r22tIcFS8z&_r=1">TikTok</a><br><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&style=for-the-badge" height="35" alt="tik tok logo"  />
+<a href="https://www.instagram.com/leonardobanin_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<a href="https://x.com/leonardobanin_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoColor=white&style=for-the-badge" height="35" alt="twiter logo"  />
+<a href="discord://users/524737454129938443">Adicione-me no Discord</a<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<a href="mailto:olerianoleonardo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+https://wa.me/+5511954995279<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+https://www.linkedin.com/in/leonardo-banin-600102291/<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<a href="https://www.behance.net/leonardobanin1"<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white&style=for-the-badge" height="35" alt="behance"  />
+<a href="https://br.pinterest.com/leonardobanin_/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=whitee&style=for-the-badge" height="35" alt="pintrest"  />
   
 
 </div>
