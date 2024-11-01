@@ -92,13 +92,7 @@ My name is Leonardo Banin and I'm a Technical from Systems Development.
 
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
