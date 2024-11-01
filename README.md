@@ -12,7 +12,8 @@ My name is Leonardo Banin and I'm a Technical from Systems Development.
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning software modeling and software testing. <br>🎯 Goals: Improve skills, Create an online portfolio, Network, Learn new languages <br>🎲 Fun fact: I am a curious person and passionate about learning. I am always striving to acquire new knowledge and skills, constantly looking for ways to develop and improve myself in my career. </p>
+<p align="left">✨ Creating bugs since 2022 📚 I'm currently learning software modeling and testing.
+🎯 Goals: Improve skills, Create an online portfolio, Network, Learn new programming languages ​​🎲 Interesting facts: I'm a curious person and passionate about learning. I'm always striving to acquire new knowledge and skills, constantly looking for ways to develop and improve in my career. </p>
 
 ###
 
