@@ -15,8 +15,10 @@ Desenvolvedor [Front-end | Back-end | Full-stack | Front-end Mobile ] e entusias
 
 🚀 Projetos: [https://github.com/LeonardoBanin/SkrrtStreet-Sprint1]
 
-📫 Como me encontrar: [olerianoleonardo@gmail.com, LinkedIn : [Leonardo Banin] (https://www.linkedin.com/in/leonardo-banin-600102291/), Telefone: 11 954995279]
+📫 Como me encontrar: [olerianoleonardo@gmail.com , Telefone: 11 954995279]
 
 ⚡ Curiosidade: [Estou sempre em busca de novos desafios e aprendizado constante. Acredito que o esforço e a determinação são as chaves para o crescimento pessoal e profissional! 🚀]
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardobanin&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobanin&hide_progress=true)
