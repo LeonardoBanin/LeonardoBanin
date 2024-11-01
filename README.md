@@ -148,11 +148,7 @@
   <a href="mailto:olerianoleonardo@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white" height="45" alt="gmail logo" />
   </a>
-  
-  <a href="https://wa.me/+5511954995279">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="45" alt="whatsapp logo" />
-  </a>
-  
+
   <a href="https://www.linkedin.com/in/leonardo-banin-600102291/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white" height="45" alt="linkedin logo" />
   </a>
