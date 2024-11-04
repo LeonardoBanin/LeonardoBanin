@@ -115,51 +115,26 @@
 ###
 
 <h2 align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Social+media" alt="Typing SVG" /></a></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=My+contact" /></a></h2>
 
 
 ###
 
 <div align="center">
-  <a href="https://youtube.com/@leonardobaninoleriano?si=AnbDcV_FVH-KgG2W">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="45" alt="youtube logo" />
-  </a>
   
-  <a href="https://www.twitch.tv/leonardobanin_">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="45" alt="twitch logo" />
-  </a>
-  
-  <a href="https://www.tiktok.com/@leonardobanin_?_t=8r22tIcFS8z&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="45" alt="tiktok logo" />
-  </a>
-  
-  <a href="https://www.instagram.com/leonardobanin_/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white" height="45" alt="instagram logo" />
-  </a>
-  
-  <a href="https://x.com/leonardobanin_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45" alt="twitter logo" />
-  </a>
-  
-  <a href="https://discord.gg/AcTJdyUC">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="45" alt="discord logo" />
-  </a>
-  
-  <a href="mailto:olerianoleonardo@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white" height="45" alt="gmail logo" />
+
+<a href="https://www.linkedin.com/in/leonardo-banin-600102291/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white" height="45" alt="linkedin logo" />
   </a>
 
-  <a href="https://www.linkedin.com/in/leonardo-banin-600102291/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white" height="45" alt="linkedin logo" />
+  <a href="mailto:olerianoleonardo@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white" height="45" alt="gmail logo" />
   </a>
   
   <a href="https://www.behance.net/leonardobanin1">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="45" alt="behance logo" />
   </a>
-  
-  <a href="https://br.pinterest.com/leonardobanin_/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" height="45" alt="pinterest logo" />
-  </a>
+
 </div>
 
 ###
