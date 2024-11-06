@@ -27,6 +27,7 @@
 📚 I'm currently learning software modeling and testing.<br>
 🎯 Goals: Improve skills, Create an online portfolio, Network, Learn new programming languages.<br>
 🎲 Interesting facts: I'm a curious person and passionate about learning. I'm always striving to acquire new knowledge and skills, constantly looking for ways to develop and improve in my career.<br> </p>
+<br>
 
 ###
 
@@ -45,15 +46,13 @@
 </div>
 
 ###
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoBanin&theme=dracula&row=3&no-bg=true&column=5&margin-w=35&margin-h=35" />
-</p>
+
 
 ###
 ###
 
 <h2 align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Main+Skills%3A" alt="Typing SVG" /></a></h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Main+Skills%3A" alt="Typing SVG" /></a></h2> 
 
 ###
 
@@ -97,10 +96,11 @@
   <img width="12" />
 </div>
 
-<br>
+<br><br>
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Tools" alt="Typing SVG" /></a>
+<br>
 <br>
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -110,7 +110,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ###
 </div>
-
+<br>
 
 ###
 
@@ -134,7 +134,8 @@
   <a href="https://www.behance.net/leonardobanin1">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" height="45" alt="behance logo" />
   </a>
-
+<br>
+<br>
 </div>
 
 ###
