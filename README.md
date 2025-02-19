@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Welcome;Hello%2C+my+name+is+Leonardo;I'm+17+years+old;I+am+from+Brazil+;Systems+Development+Technician" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0517A6&width=435&lines=Welcome;Hello%2C+my+name+is+Leonardo;I'm+18+years+old;I+am+from+Brazil+;Systems+Development+Technician" alt="Typing SVG" /></a>
 </div>
 
 
