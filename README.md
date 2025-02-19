@@ -22,7 +22,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2022. <br>
-📚 I'm currently learning Responsive Web Programming and Mobile Device Development at Unip College First Semester..<br>
+📚 I'm currently learning Responsive Web Programming and Mobile Device Development at Unip College First Semester.<br>
 🎯 Goals: Improve skills, Create an online portfolio, Network, Learn new programming languages.<br>
 🎲 Interesting facts: I'm a curious person and passionate about learning. I'm always striving to acquire new knowledge and skills, constantly looking for ways to develop and improve in my career.<br> </p>
 <br>
