@@ -123,7 +123,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white" height="45" alt="linkedin logo" />
   </a>
 
-  <a href="mailto:olerianoleonardo@gmail.com">
+  <a href="mailto:leonardo.banin.oleriano@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white" height="45" alt="gmail logo" />
   </a>
   
